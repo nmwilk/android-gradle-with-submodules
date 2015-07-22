@@ -1,0 +1,4 @@
+include ':app', ':MyModuleAndroid', ':MyModuleJava'
+project(':MyModuleAndroid').projectDir = new File('./submodule/MyModuleAndroid')
+project(':MyModuleJava').projectDir = new File('./submodule/MyModuleJava')
+
