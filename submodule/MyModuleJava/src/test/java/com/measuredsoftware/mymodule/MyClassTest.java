@@ -1,4 +1,4 @@
-package com.example;
+package com.measuredsoftware.mymodule;
 
 import org.junit.Assert;
 import org.junit.Test;

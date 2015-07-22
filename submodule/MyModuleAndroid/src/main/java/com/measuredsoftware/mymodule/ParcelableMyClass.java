@@ -1,8 +1,7 @@
-package com.measuredsoftware.mymodule.lib;
+package com.measuredsoftware.mymodule;
 
 import android.os.Parcel;
 import android.os.Parcelable;
-import com.example.MyClass;
 
 /**
  * To prove dependency on {@link MyClass} from other module.

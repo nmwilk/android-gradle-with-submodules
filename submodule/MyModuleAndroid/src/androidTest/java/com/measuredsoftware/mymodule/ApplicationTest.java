@@ -1,4 +1,4 @@
-package com.measuredsoftware.mymodule.lib;
+package com.measuredsoftware.mymodule;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,10 +1,10 @@
-package com.measuredsoftware.mymodule.lib;
+package com.measuredsoftware.mymodule;
 
 import junit.framework.Assert;
 import junit.framework.TestCase;
 
 /**
- * To prove dependency on {@link com.example.MyClass}.
+ * To prove dependency on {@link com.measuredsoftware.mymodule.MyClass}.
  */
 public class ParcelableMyClassTest extends TestCase
 {

@@ -1,4 +1,4 @@
-package com.example;
+package com.measuredsoftware.mymodule;
 
 public class MyClass
 {
