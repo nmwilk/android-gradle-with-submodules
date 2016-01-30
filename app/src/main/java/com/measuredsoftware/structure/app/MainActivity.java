@@ -2,7 +2,7 @@ package com.measuredsoftware.structure.app;
 
 import android.app.Activity;
 import android.os.Bundle;
-import com.measuredsoftware.mymodule.lib.ParcelableMyClass;
+import com.measuredsoftware.mymodule.ParcelableMyClass;
 
 public class MainActivity extends Activity
 {
